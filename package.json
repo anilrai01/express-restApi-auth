@@ -81,7 +81,7 @@
     "mkdirp": "^0.5.5",
     "mongoose": "^5.9.19",
     "mongoose-legacy-pluralize": "^1.0.2",
-    "mpath": "^0.7.0",
+    "mpath": "^0.8.4",
     "ms": "^2.1.2",
     "negotiator": "^0.6.2",
     "node-addon-api": "^3.0.0",
