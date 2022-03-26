@@ -77,7 +77,7 @@
     "mime-types": "^2.1.27",
     "mimic-response": "^1.0.1",
     "minimatch": "^3.0.4",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "mkdirp": "^0.5.5",
     "mongoose": "^5.9.19",
     "mongoose-legacy-pluralize": "^1.0.2",
